@@ -1,0 +1,49 @@
+body {
+  background-color: darkslateblue;
+  color: lightcyan;
+}
+
+h1, h2 {
+  text-align: center;
+  font-family: 'Paytone One', sans-serif;
+  color: mediumseagreen;
+}
+
+h2 {
+  color: lightseagreen;
+}
+
+h3 {
+  font-weight: bold;
+  color: darkturquoise;
+}
+
+.table {
+  font-family: 'Hind Madurai', sans-serif;
+}
+
+.center {
+  text-align: center;
+  }
+
+thead {
+  background-color: indigo;
+}
+
+table {
+  margin: 20px auto;
+  background-color: slateblue;
+  margin: 0 auto;
+  border-collapse: collapse;
+  width: 70%;
+}
+
+th, td {
+   padding: 15px;
+   border-collapse: collapse;
+   border: 2px solid white;
+}
+
+tr:nth-child(even) {background-color: mediumslateblue;}
+
+tr:hover {background-color: royalblue;}
